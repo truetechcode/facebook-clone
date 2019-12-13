@@ -64,4 +64,4 @@ You can deploy the project on [Heroku](https://www.heroku.com/) using the follow
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
